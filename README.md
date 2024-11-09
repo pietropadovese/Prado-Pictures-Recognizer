@@ -1,1 +1,2 @@
 # Prado-Pictures-Recognizer
+This repository contains the code and the report for the project submitted as part of the **Algorithms for Massive Datasets (AMD)** course exam. The goal of this project is to test different neural network architectures for classifying images based on their author. The task involves training models to accurately predict the author of each image, exploring various network structures to find the most effective solution for this classification problem.
